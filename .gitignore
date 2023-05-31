@@ -1,4 +1,8 @@
+.env
 .terraform/
 .terraform.lock.hcl
 terraform.tfstate.backup
 terraform.tfstate
+credentials.json
+consolidado_med.csv
+consolidade_med.csv

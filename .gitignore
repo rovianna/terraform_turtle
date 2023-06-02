@@ -6,3 +6,5 @@ terraform.tfstate
 credentials.json
 consolidado_med.csv
 consolidade_med.csv
+data_processing.zip
+app.log
